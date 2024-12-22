@@ -10,10 +10,12 @@ I'm a passionate software developer with a keen interest in open-source projects
 - 📚 **Interests**: Machine Learning, Web Development, Cloud Computing
 
 ## GitHub Stats
-![Bagnoli95's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bagnoli95&show_icons=true&theme=radical)
+![Bagnoli95's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bagnoli95&show_icons=true&theme=dark)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bagnoli95&layout=compact&theme=radical)
+
+dark, tokyonight, gruvbox, merko, radical
 
 ## Projects
 Here are some of my notable projects:
@@ -26,6 +28,10 @@ A brief description of what Project 2 is about, the technologies used, and what 
 
 ### [Project 3](https://github.com/Bagnoli95/project-3)
 A brief description of what Project 3 is about, the technologies used, and what it aims to accomplish.
+
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/Bagnoli95)
