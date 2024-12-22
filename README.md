@@ -14,12 +14,12 @@ I'm a passionate software developer with a keen interest in open-source projects
 ---
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bagnoli95&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bagnoli95&show_icons=true&theme=dark)
 
 ---
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bagnoli95&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bagnoli95&layout=compact&theme=dark)
 
 ---
 
