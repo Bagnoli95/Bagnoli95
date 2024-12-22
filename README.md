@@ -13,6 +13,11 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ---
 
+## GitHub Repository Stats
+![Bagnoli95's GitHub Repositories](https://github-readme-stats.vercel.app/api?username=Bagnoli95&show_icons=true&hide=stars&count_private=true&include_all_commits=true&hide_title=true&theme=dark)
+
+---
+
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bagnoli95&show_icons=true&theme=dark)
 
