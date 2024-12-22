@@ -13,7 +13,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 ![Bagnoli95's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bagnoli95&show_icons=true&theme=dark)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bagnoli95&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bagnoli95&layout=compact&theme=tokyonight)
 
 dark, tokyonight, gruvbox, merko, radical
 
