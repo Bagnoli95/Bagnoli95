@@ -7,9 +7,9 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 - 🎓 **Education**: Bachelor's in Computer Science
 - 💼 **Profession**: Software Developer
-- 🌍 **Location**: [Your Location]
-- 💻 **Languages**: Python, JavaScript, Java, C++
-- 📚 **Interests**: Machine Learning, Web Development, Cloud Computing
+- 🌍 **Location**: Asunción, Paraguay
+- 💻 **Languages**: Flutter, Dart, Python, JavaScript, Java
+- 📚 **Interests**: Machine Learning, Web Development, Cross-Platform
 
 ---
 
