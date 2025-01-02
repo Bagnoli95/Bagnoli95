@@ -11,37 +11,6 @@ I'm a passionate software developer with a keen interest in open-source projects
 - 💻 **Languages**: Flutter, Dart, Python, JavaScript, Java
 - 📚 **Interests**: Machine Learning, Web Development, Cross-Platform
 
----
-
-## GitHub Repository Stats
-![Bagnoli95's GitHub Repositories](https://github-readme-stats.vercel.app/api?username=Bagnoli95&show_icons=true&hide=stars&count_private=true&include_all_commits=true&hide_title=true&theme=dark)
-
----
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bagnoli95&show_icons=true&theme=dark)
-
----
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bagnoli95&layout=compact&theme=dark)
-
----
-
-## Notable Projects
-| Proyecto       | Descripción                                   | Enlace                |
-|----------------|-----------------------------------------------|-----------------------|
-| **Project 1**  | Un proyecto innovador para XYZ.               | [Ver Repo](#)         |
-| **Project 2**  | Plataforma basada en IA para tareas ABC.      | [Ver Repo](#)         |
-
----
-
-## Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bagnoli95-blue?logo=linkedin)](https://linkedin.com/in/Bagnoli95)
 [![Twitter](https://img.shields.io/badge/Twitter-Bagnoli95-blue?logo=twitter)](https://twitter.com/Bagnoli95)
