@@ -14,4 +14,4 @@ I'm a passionate software developer with a keen interest in open-source projects
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bagnoli95-blue?logo=linkedin)](https://linkedin.com/in/Bagnoli95)
 [![Twitter](https://img.shields.io/badge/Twitter-Bagnoli95-blue?logo=twitter)](https://twitter.com/Bagnoli95)
-[![Website](https://img.shields.io/badge/Website-Portfolio-blue?logo=google-chrome)]([https://bagnoli95.github.io](https://arturososabagnoli.dev/))
+[![Website](https://img.shields.io/badge/Website-Portfolio-blue?logo=google-chrome)]([https://bagnoli95.github.io](https://arturososabagnoli.dev)
