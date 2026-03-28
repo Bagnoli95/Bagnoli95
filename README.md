@@ -1,17 +1,59 @@
-# Hi there, I'm Bagnoli95! 👋
+# Arturo Sosa Bagnoli · @Bagnoli95
 
-![Profile views](https://komarev.com/ghpvc/?username=Bagnoli95&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=Bagnoli95&color=0d9488&style=flat-square)
 
-## About Me
-I'm a passionate software developer with a keen interest in open-source projects and collaborative development. Here are some quick facts:
+## 👨‍💻 About Me
 
-- 🎓 **Education**: Bachelor's in Computer Science
-- 💼 **Profession**: Software Developer
-- 🌍 **Location**: Asunción, Paraguay
-- 💻 **Languages**: Flutter, Dart, Python, JavaScript, Java
-- 📚 **Interests**: Machine Learning, Web Development, Cross-Platform
+Tech Lead & Senior Fullstack Developer based in **Asunción, Paraguay**.
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bagnoli95-blue?logo=linkedin)](https://linkedin.com/in/Bagnoli95)
-[![Twitter](https://img.shields.io/badge/Twitter-Bagnoli95-blue?logo=twitter)](https://twitter.com/Bagnoli95)
-[![Website](https://img.shields.io/badge/Website-Portfolio-blue?logo=google-chrome)](https://arturososabagnoli.dev)
+Trabajo en la intersección entre el desarrollo de software, los sistemas financieros y la infraestructura cloud. Durante el día lidero equipos en **CABAL Paraguay** (procesamiento de tarjetas CABAL y cuentas cooperativas SICOOP); en paralelo, construyo plataformas enterprise a medida bajo **Avantia - Impulsa**, mi empresa de desarrollo.
+
+Me apasiona resolver problemas reales con código limpio, arquitecturas sólidas y buenas decisiones de ingeniería.
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend & Mobile**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**DevOps & Infra**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**BI & Data**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+---
+
+## 🚀 What I'm Building
+
+- 🏦 **DIMO 2.0** — Plataforma de mobile banking con compliance PCI DSS para CABAL Paraguay
+- 🏗️ **Avantia - Impulsa** — Plataformas enterprise para clientes corporativos (FastAPI + Flutter + PostgreSQL)
+- 📺 **Moppies** — Red de pantallas de publicidad digital
+- 🌐 **[arturososabagnoli.dev](https://arturososabagnoli.dev)** — Portfolio personal & landing
+
+---
+
+## 📊 GitHub Stats
+
+![Bagnoli95's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bagnoli95&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bagnoli95&layout=compact&hide_border=true)
+
+---
+
+## 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arturo_Sosa_Bagnoli-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/Bagnoli95)
+[![Website](https://img.shields.io/badge/Portfolio-arturososabagnoli.dev-0d9488?style=flat-square&logo=google-chrome)](https://arturososabagnoli.dev)
