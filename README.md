@@ -81,13 +81,6 @@ Desarrollo de plataformas enterprise para empresas que necesitan algo más que u
 
 ---
 
-## 📊 GitHub Stats
-
-![Bagnoli95's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bagnoli95&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bagnoli95&layout=compact&hide_border=true)
-
----
-
 ## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arturo_Sosa_Bagnoli-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/Bagnoli95)
