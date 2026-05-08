@@ -82,7 +82,6 @@ Desarrollo de plataformas enterprise para empresas que necesitan algo más que u
 ## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arturo_Sosa_Bagnoli-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/Bagnoli95)
-[![Website](https://img.shields.io/badge/Portfolio-arturososabagnoli.dev-0d9488?style=flat-square&logo=google-chrome)](https://arturososabagnoli.dev)
 
 ---
 
