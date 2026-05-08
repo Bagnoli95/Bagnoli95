@@ -75,9 +75,7 @@ Desarrollo de plataformas enterprise para empresas que necesitan algo más que u
 
 > *Construimos software que impacta operaciones reales, no demos.*
 
-### 📡 Otros proyectos
-- **Moppies** — Red de digital signage (publicidad en pantallas)
-- 🌐 [arturososabagnoli.dev](https://arturososabagnoli.dev) — Portfolio personal
+
 
 ---
 
